@@ -1,4 +1,4 @@
-baseurl = "http://plan.ru.website.yandexcloud.net"
+baseurl = "http://example.ru"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
